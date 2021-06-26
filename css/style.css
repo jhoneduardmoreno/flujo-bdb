@@ -81,3 +81,9 @@ img{
         order: -1;
     }
 }
+
+.footer{
+    text-align: center;
+    color: white;
+    background-color: #db008d;
+}
