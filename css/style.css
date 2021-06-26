@@ -58,3 +58,10 @@ img{
     color: white;
     text-decoration: none;
 }
+
+/*Contenido*/
+.contenido-principal{
+    max-width: 50%;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
