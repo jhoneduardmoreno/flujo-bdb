@@ -58,3 +58,26 @@ img{
     color: white;
     text-decoration: none;
 }
+
+/*Contenido*/
+.contenido-principal{
+    max-width: 50%;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+
+.sidebar{
+    background-color: #e5e5e5;
+    padding: 2rem;
+}
+
+@media screen and (min-width: 768px){
+    .contenido{
+        display: flex;
+    }
+
+    .sidebar{
+        flex: 0 0 30%;
+        order: -1;
+    }
+}
