@@ -58,3 +58,9 @@ img{
     color: white;
     text-decoration: none;
 }
+
+.footer{
+    text-align: center;
+    color: white;
+    background-color: #db008d;
+}
